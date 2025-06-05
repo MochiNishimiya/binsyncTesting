@@ -1,6 +1,6 @@
 [0x30c0]
-last_change = 2025-06-05T16:01:38.219050Z
+last_change = 2025-06-05T16:01:38.219601Z
 addr = 0x30c0
-name = "unk_1400030C0"
+name = "qword_1400030C0"
 type = "unsigned long long[4]"
-size = 0x1
+size = 0x20
