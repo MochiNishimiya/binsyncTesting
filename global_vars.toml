@@ -1,0 +1,5 @@
+[0x30c0]
+addr = 0x30c0
+name = "qword_1400030C0"
+type = "unsigned long long[4]"
+size = 0x20
