@@ -1,0 +1,12 @@
+last_change = 2025-06-05T16:05:18.758954Z
+addr = 0x1220
+size = 0x9c
+name = "noTimmy"
+artifact_type = "Function"
+
+[header]
+last_change = 2025-06-05T16:05:18.758954Z
+name = "noTimmy"
+addr = 0x1220
+
+[header.args]
