@@ -1,0 +1,12 @@
+last_change = 2025-06-05T16:08:04.738084Z
+addr = 0x53fc
+size = 0xfa
+name = "hehehehehehhehehe"
+artifact_type = "Function"
+
+[header]
+last_change = 2025-06-05T16:08:04.738084Z
+name = "hehehehehehhehehe"
+addr = 0x53fc
+
+[header.args]
