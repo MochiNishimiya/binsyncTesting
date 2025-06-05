@@ -1,0 +1,12 @@
+last_change = 2025-06-05T16:04:11.944399Z
+addr = 0x5000
+size = 0x256
+name = "shitshow"
+artifact_type = "Function"
+
+[header]
+last_change = 2025-06-05T16:04:11.944399Z
+name = "shitshow"
+addr = 0x5000
+
+[header.args]
