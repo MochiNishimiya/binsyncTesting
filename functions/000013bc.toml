@@ -1,3 +1,12 @@
 addr = 0x13bc
 size = 0x159
+name = "somethingsomething"
+type = "long long"
 artifact_type = "Function"
+
+[header]
+name = "somethingsomething"
+addr = 0x13bc
+type = "long long"
+
+[header.args]
