@@ -3,3 +3,10 @@ addr = 0x30c0
 name = "qword_1400030C0"
 type = "unsigned long long[4]"
 size = 0x20
+
+[0x3100]
+last_change = 2025-06-05T16:08:00.023225Z
+addr = 0x3100
+name = "qword_140003100"
+type = "long long (__fastcall *)(unsigned long long, unsigned long long, unsigned long long, unsigned long long)"
+size = 0x8
