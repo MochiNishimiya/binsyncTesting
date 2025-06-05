@@ -1,0 +1,12 @@
+last_change = 2025-06-05T16:03:47.169550Z
+addr = 0x1d40
+size = 0x43
+name = "hithereyousuck"
+artifact_type = "Function"
+
+[header]
+last_change = 2025-06-05T16:03:47.169550Z
+name = "hithereyousuck"
+addr = 0x1d40
+
+[header.args]
